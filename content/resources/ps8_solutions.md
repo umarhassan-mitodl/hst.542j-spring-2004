@@ -4,6 +4,8 @@ description: Solutions to assigned homework problems.
 file: /courses/hst-542j-quantitative-physiology-organ-transport-systems-spring-2004/b4c3dede3c2cde7fbed133fb7671e681_ps8_solutions.pdf
 file_size: 52048
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

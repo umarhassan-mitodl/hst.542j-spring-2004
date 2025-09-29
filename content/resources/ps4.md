@@ -4,6 +4,8 @@ description: Homework assignment.
 file: /courses/hst-542j-quantitative-physiology-organ-transport-systems-spring-2004/440fa1cdc9526c6ee4f33f4921d48841_ps4.pdf
 file_size: 63647
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
