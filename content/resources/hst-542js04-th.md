@@ -4,8 +4,6 @@ description: New image Upload
 file: /courses/hst-542j-quantitative-physiology-organ-transport-systems-spring-2004/223ea2c11247fc0411113861881dc7a1_hst-542js04-th.jpg
 file_size: 5503
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Electrocardiography provides visibility into the heart's electrical activity,
     helping doctors diagnose a wide range of cardiac abnormalities. For example, a

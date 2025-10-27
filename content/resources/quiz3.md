@@ -4,8 +4,6 @@ description: Quiz problems.
 file: /courses/hst-542j-quantitative-physiology-organ-transport-systems-spring-2004/7adf67d8e4952f6e338d0da2b30ba3d7_quiz3.pdf
 file_size: 66147
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
